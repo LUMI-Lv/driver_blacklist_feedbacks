@@ -1,0 +1,12 @@
+{
+  "hash": "10c4c0c6b15d5b5c829dd1f8706f886aad6ccc0c98ca221c097fd123f9e66dbf",
+  "userHash": "225b367506e446f2dc0b7a9d2783569cf4737cbf7b6370bbd7f72b1914c4e0b8",
+  "timestamp": "2024-11-01T15:47",
+  "text": "То що, на водія таксі йде?&#128513;\nЧи оренда?)",
+  "candidateHash": "6b0d5fd2ecfcb64a8dfb97afe82073fe60153e148a8c2457629842c675f65a21",
+  "baloons": ["baloon_images/2024_11/2024-11-01T15-47_21cd2.png"],
+  "baloonMessage": "Goodinvestauto\nПетровська Тетяна?",
+  "messageType": "feedback,question",
+  "replyToUserName": "",
+  "replyToMessage": "  Петровська Тетяна?"
+}

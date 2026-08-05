@@ -1,0 +1,12 @@
+{
+  "hash": "1c8f66ad35f91c94fa78105006e0d1b965a53ed59f27bb585a57a6af86d55dc3",
+  "userHash": "ccb607b81e222046fda3c6ac67689a1ae9ad35d02484ad65c2a4db6dd355b416",
+  "timestamp": "2023-09-01T15:38",
+  "text": "Трохи чмир",
+  "candidateHash": "e8bf239eed663b2b7a5b3d1691e389e3b2995edeabb76062f3c7deb93fe36c87",
+  "baloons": ["baloon_images/2023_09/2023-09-01T15-38_d4103.png", "baloon_images/2023_09/2023-09-01T15-38_f04e1.png"],
+  "baloonMessage": "Kolya\nЧмир Юрій відомий комусь?",
+  "messageType": "feedback",
+  "replyToUserName": "",
+  "replyToMessage": "  Чмир Юрій відомий комусь?"
+}

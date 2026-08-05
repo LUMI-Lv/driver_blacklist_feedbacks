@@ -1,0 +1,12 @@
+{
+  "hash": "2f04a91f5372f6aa43b265eb5dc50e5e03fcc54b4322d4bc579c2b871fd00762",
+  "userHash": "7702eaeb1317c08fab4344ffb6b814c56e2c0094f86aec45ce54af4d4839f91a",
+  "timestamp": "2023-12-12T12:10",
+  "text": "Нормальний водій",
+  "candidateHash": "5b5bdea2f86afd7be3c125c1a66ccbf559f28e8577264d98824fcf8b0b712b2e",
+  "baloons": ["baloon_images/2023_12/2023-12-12T12-10_206bf.png"],
+  "baloonMessage": "Олександр\nКовальчук Владислав Віталійович комусь знайомий?",
+  "messageType": "feedback",
+  "replyToUserName": "",
+  "replyToMessage": "  Ковальчук Владислав Віталійович комусь знайомий?"
+}

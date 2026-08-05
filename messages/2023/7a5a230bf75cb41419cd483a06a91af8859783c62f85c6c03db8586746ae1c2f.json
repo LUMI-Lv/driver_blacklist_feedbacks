@@ -1,0 +1,12 @@
+{
+  "hash": "7a5a230bf75cb41419cd483a06a91af8859783c62f85c6c03db8586746ae1c2f",
+  "userHash": "9d011d5d723e1977ae6f56fdd5970466e405199e81c66257492b05b03819e24c",
+  "timestamp": "2023-04-28T12:24",
+  "text": "Добрий день, він у Вас працював?",
+  "candidateHash": "185d98c473a315d8207f30e2e1ea918f7543c6802fd513297566d64ab83e6d56",
+  "baloons": ["baloon_images/2023_04/2023-04-28T12-24_11bec.png"],
+  "baloonMessage": "Kolya\nДобрий день, Матяш Роман Валентинович відомий комусь?",
+  "messageType": "feedback,question",
+  "replyToUserName": "",
+  "replyToMessage": "Добрий день, Матяш Роман Валентинович відомий комусь?"
+}

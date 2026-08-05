@@ -1,0 +1,12 @@
+{
+  "hash": "e25a01ae101195f4d806599c076b5474e3a5275013774b99dddc351eb9db3128",
+  "userHash": "7bf79348a1a719ba7b40ea088b7b0e1bc4a3ee8646ed2031c71cb553d745a7fe",
+  "timestamp": "2024-11-28T16:21",
+  "text": "Доброго дня.\nКомусь відомий Валерій Лучко?\nКаже , що працював в парку",
+  "candidateHash": "f1e33ab046af14e09c1f082591fd843efed18fe6aaece4e81a2dd3f5c78cd3df",
+  "baloons": ["baloon_images/2024_11/2024-11-28T16-21_d0ed9.png"],
+  "baloonMessage": "Юра\nДоброго дня.\nКомусь відомий Валерій Лучко?\nКаже , що працював в парку",
+  "messageType": "request,feedback",
+  "replyToUserName": "",
+  "replyToMessage": ""
+}

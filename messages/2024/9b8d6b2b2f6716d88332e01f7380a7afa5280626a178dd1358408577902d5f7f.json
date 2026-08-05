@@ -1,0 +1,12 @@
+{
+  "hash": "9b8d6b2b2f6716d88332e01f7380a7afa5280626a178dd1358408577902d5f7f",
+  "userHash": "f0fc11478ccb431e0b53c8be26749eae2c18c78c926e0223a5e3ae27c8513901",
+  "timestamp": "2024-12-24T11:13",
+  "text": "Нормальний водій, працював добре, без зауважень.",
+  "candidateHash": "",
+  "baloons": ["baloon_images/2024_12/2024-12-24T11-13_265a9.png"],
+  "baloonMessage": "Влад\nPhoto message",
+  "messageType": "feedback",
+  "replyToUserName": "",
+  "replyToMessage": "  Photo message"
+}

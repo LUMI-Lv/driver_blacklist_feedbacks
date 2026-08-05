@@ -1,0 +1,12 @@
+{
+  "hash": "b78a7462dea54d74d266de77c8bf577ac65cab97dd15122927009a3f769459ba",
+  "userHash": "0e142db336009d85013235df7f62941a527b9adfd1387920d42fd07aa20a70c1",
+  "timestamp": "2022-02-14T18:50",
+  "text": "Хороший водій, їздить за кордон і в період приїзду таксує",
+  "candidateHash": "58a999d0a190e38d160faa92e1dd6c7a14a706fe7a9abaf8db77f750b1d2dcc4",
+  "baloons": ["baloon_images/2022_02/2022-02-14T18-50_82d15.png"],
+  "baloonMessage": "Юрій\nМарків Микола працював в когось?",
+  "messageType": "feedback",
+  "replyToUserName": "",
+  "replyToMessage": "Марків Микола працював в когось?"
+}

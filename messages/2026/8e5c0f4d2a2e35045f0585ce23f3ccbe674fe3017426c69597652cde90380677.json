@@ -1,0 +1,12 @@
+{
+  "hash": "8e5c0f4d2a2e35045f0585ce23f3ccbe674fe3017426c69597652cde90380677",
+  "userHash": "e29847c934ad58b15b85eecfc9ee0d082e79d32b1ccb0b8e53c63e6f6f527b56",
+  "timestamp": "2026-06-25T13:30",
+  "text": "Проблемний.",
+  "candidateHash": "a3ee2ae02d5e3f27f485581a01d492db9185c642a25b099fdfa07bd2c87cf1d1",
+  "baloons": ["baloon_images/2026_06/2026-06-25T13-30_c13d1.png"],
+  "baloonMessage": "Андрій\nОнишко Ігор Богданович\nВідомий комусь?",
+  "messageType": "feedback",
+  "replyToUserName": "",
+  "replyToMessage": "  Онишко Ігор Богданович\nВідомий комусь?"
+}

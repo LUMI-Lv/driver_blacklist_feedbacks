@@ -1,0 +1,12 @@
+{
+  "hash": "e30e645ec0e76806539faab7d724e5af2908df03d82f523d768cfc5313ba3f71",
+  "userHash": "8a652786d211fcf880b5fd9a20471e0090bdeb0a30f93b05bfdb841b29c9c6af",
+  "timestamp": "2024-12-14T20:24",
+  "text": "Добрий вечір\nВ когось їздить зараз даний персонаж?",
+  "candidateHash": "",
+  "baloons": ["baloon_images/2024_12/2024-12-14T20-24_93c31.png"],
+  "baloonMessage": "Roman",
+  "messageType": "request,feedback",
+  "replyToUserName": "",
+  "replyToMessage": ""
+}

@@ -1,0 +1,12 @@
+{
+  "hash": "0001fb47377913924de604987bbb2d9c97c093638167056bfb9b937768193806",
+  "userHash": "354c674e34723db3bf7bcd11f88921d32e5c2b56683c63bfb2edd7ace9810339",
+  "timestamp": "2023-12-07T00:41",
+  "text": "Звідки він?",
+  "candidateHash": "9d284fdb296fd55946f76f4d43c9d02b6c2aff906c0cdc16e9c861e1612af367",
+  "baloons": ["baloon_images/2023_12/2023-12-07T00-41_30c3e.png"],
+  "baloonMessage": "Віктор",
+  "messageType": "feedback,question",
+  "replyToUserName": "",
+  "replyToMessage": "Криса Роман знайомий комусь?"
+}

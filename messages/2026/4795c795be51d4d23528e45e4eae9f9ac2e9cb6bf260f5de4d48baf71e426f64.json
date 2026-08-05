@@ -1,0 +1,12 @@
+{
+  "hash": "4795c795be51d4d23528e45e4eae9f9ac2e9cb6bf260f5de4d48baf71e426f64",
+  "userHash": "863e1feea5b851eeb57b5310cb55ffadbc0b0a7571970214013e36fb121e22b3",
+  "timestamp": "2026-07-08T08:23",
+  "text": "Дайте знати в кого їздить цей персонаж\nБурий Назар ?",
+  "candidateHash": "a249264e9ba6bf2bb71eabb40afd017549651743f2d34fec80cd688db0d53043",
+  "baloons": ["baloon_images/2026_07/2026-07-08T08-23_f071c.png"],
+  "baloonMessage": "Taras\nДайте знати в кого їздить цей персонаж\nБурий Назар ?",
+  "messageType": "request,feedback",
+  "replyToUserName": "",
+  "replyToMessage": ""
+}

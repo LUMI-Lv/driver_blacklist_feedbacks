@@ -1,0 +1,12 @@
+{
+  "hash": "fec8d165bfcc65ff20e2e1310d21878d97114c22e07967dcc58aed0f22f83b10",
+  "userHash": "f0fc11478ccb431e0b53c8be26749eae2c18c78c926e0223a5e3ae27c8513901",
+  "timestamp": "2025-01-31T12:25",
+  "text": "Працює норм, досвідчений водій.",
+  "candidateHash": "",
+  "baloons": ["baloon_images/2025_01/2025-01-31T12-25_a7b59.png"],
+  "baloonMessage": "VS\nДобрий день, Доля Оксана комусь знайома ?",
+  "messageType": "feedback",
+  "replyToUserName": "",
+  "replyToMessage": "Добрий день, Доля Оксана комусь знайома ?"
+}

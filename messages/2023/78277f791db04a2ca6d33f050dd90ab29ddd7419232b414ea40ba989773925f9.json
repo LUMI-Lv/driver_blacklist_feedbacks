@@ -1,0 +1,12 @@
+{
+  "hash": "78277f791db04a2ca6d33f050dd90ab29ddd7419232b414ea40ba989773925f9",
+  "userHash": "eeb24ef294f94009d1ae4dbe7e1a891746028016e82904463939cbea870b89f1",
+  "timestamp": "2023-04-29T18:40",
+  "text": "В кого працював Головін Олександр Олександрович? Каже що вже працював в парку.",
+  "candidateHash": "3b31fb2888a41776ff714a66502f5f0e7dcf43f39f3eb72edef658a330fb51b7",
+  "baloons": ["baloon_images/2023_04/2023-04-29T18-40_81850.png"],
+  "baloonMessage": "Олександр\nВ кого працював Головін Олександр Олександрович? Каже що вже працював в парку.",
+  "messageType": "feedback,question",
+  "replyToUserName": "",
+  "replyToMessage": ""
+}

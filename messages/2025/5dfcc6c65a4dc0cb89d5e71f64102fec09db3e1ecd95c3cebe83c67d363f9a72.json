@@ -1,0 +1,12 @@
+{
+  "hash": "5dfcc6c65a4dc0cb89d5e71f64102fec09db3e1ecd95c3cebe83c67d363f9a72",
+  "userHash": "dd73c702607da0dba1901d10cfe6afd6a1c4ec1b35ec59e5c0050916333d9d80",
+  "timestamp": "2025-01-23T18:13",
+  "text": "В п'ятницю приходив на співбесіду. Видався нормальним, казав в таксі вже працював. Доки на перевірку не залишив але в суботу набирав казав що готовий працювати",
+  "candidateHash": "59ee25648c8425046fe7703d886cd655a10cf6e044a27007bbcd27523d905d1d",
+  "baloons": ["baloon_images/2025_01/2025-01-23T18-13_065fe.png"],
+  "baloonMessage": "Миколай\nГарбар Ерік знайомий?",
+  "messageType": "request,feedback",
+  "replyToUserName": "",
+  "replyToMessage": "  Гарбар Ерік знайомий?"
+}

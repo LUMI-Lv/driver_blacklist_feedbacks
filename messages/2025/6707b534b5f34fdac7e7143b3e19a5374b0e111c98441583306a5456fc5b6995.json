@@ -1,0 +1,12 @@
+{
+  "hash": "6707b534b5f34fdac7e7143b3e19a5374b0e111c98441583306a5456fc5b6995",
+  "userHash": "2a2da33630f2e529c03772f75ce6c2edb7ca954b12d7438023ce6d91ad928213",
+  "timestamp": "2025-03-05T19:19",
+  "text": "Всім доброго вечора, підкажіть може в когось їздить даний персонаж?",
+  "candidateHash": "",
+  "baloons": ["baloon_images/2025_03/2025-03-05T19-19_e2bdd.png"],
+  "baloonMessage": "Roman Pereguda\nВсім доброго вечора, підкажіть може в когось їздить даний персонаж?",
+  "messageType": "request,feedback",
+  "replyToUserName": "",
+  "replyToMessage": ""
+}
